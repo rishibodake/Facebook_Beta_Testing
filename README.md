@@ -13,6 +13,7 @@ This project covers end to end scenarios for facebook application
 * Chrome Browser
 * Firefox Browser
 * Microsoft Office Excel
+* AutoIt
 
 ## Technologies
 C#
@@ -46,4 +47,4 @@ C#
 * Logout From The Application
 
 ## Author 
-* Hrishikes M Bodake
+* Hrishikesh M Bodake
